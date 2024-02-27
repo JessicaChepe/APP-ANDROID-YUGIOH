@@ -7,7 +7,5 @@ Los datos de los usuarios registrados se gestionan de manera eficiente a través
 En resumen, esta aplicación proporciona una plataforma completa y bien estructurada para satisfacer las necesidades de los usuarios, ofreciendo una interfaz intuitiva y funcionalidades robustas para una experiencia óptima.
 
 ## Imagen del Login
-<div style="text-align:center;">
-    <img src="https://github.com/JessicaChepe/APP-ANDROID-YUGIOH/assets/104339906/d45e7e33-3bd9-45ed-9053-4619e184771a" alt="APP-YU-GI-OH">
-</div>
 
+![APP-YU-GI-OH](https://github.com/JessicaChepe/APP-ANDROID-YUGIOH/assets/104339906/d45e7e33-3bd9-45ed-9053-4619e184771a)
