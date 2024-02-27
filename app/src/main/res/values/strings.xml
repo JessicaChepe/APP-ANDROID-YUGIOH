@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="logTxtCorreo">Correo Electronico</string>
+    <string name="logTxtClave">Clavel</string>
+    <string name="logBtnIngresar">Ingresar</string>
+    <string name="logBtnSalir">Salir</string>
+    <string name="logChkRecordar">Recordar Sesión</string>
+    <string name="logLblRegistrar">¡Regístrate!</string>
+    <string name="logLblCopyright">UPN 2023</string>
+    <string name="bieLblNombre">Bienvenid@ {nombre}</string>
+    <string name="frgCfgBtnCerrarSesion">Cerrar Sesion</string>
+    <string name="regLblTitulo">Registro</string>
+    <string name="regTxtDNI">DNI</string>
+    <string name="RegTxtNombre">Nombres</string>
+    <string name="regTxtApellidos">Apellidos</string>
+    <string name="txtRegFechaNac">Fecha Nacimiento</string>
+    <string name="regRabSinDefinir">Sin Definir</string>
+    <string name="regRabMasculino">Masculino</string>
+    <string name="regRabFemenino">Femenino</string>
+    <string name="regTxtCorreo">Correo</string>
+    <string name="regTxtClave">Clave</string>
+    <string name="regChkTerminos">Términos y condiciones</string>
+    <string name="regBtnRegistrar">Registrar</string>
+    <string name="regBtnCancelar">Cancelar</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
